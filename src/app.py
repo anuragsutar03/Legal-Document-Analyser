@@ -48,7 +48,9 @@ with st.sidebar:
         "`python src/ingest.py`."
     )
     st.markdown("---")
-    if os.environ.get("ANTHROPIC_API_KEY"):
+    if os.environ.get("GEMINI_API_KEY"):
+        st.success("Gemini API key detected - full generation enabled.")
+    elif os.environ.get("ANTHROPIC_API_KEY"):
         st.success("Anthropic API key detected - full generation enabled.")
     elif os.environ.get("OPENAI_API_KEY"):
         st.success("OpenAI API key detected - full generation enabled.")
@@ -69,11 +71,10 @@ if st.button("Analyze", type="primary") and query.strip():
 
     st.subheader("Answer")
     st.write(answer)
- 
+
     st.subheader("Retrieved sources")
     for c in chunks:
         with st.expander(f"{c['doc_title']} — {c['section_label']}  (relevance distance: {c['distance']:.3f})"):
             st.write(c["text"])
 elif query.strip() == "":
     st.info("Enter a question above and click Analyze.")
- 
