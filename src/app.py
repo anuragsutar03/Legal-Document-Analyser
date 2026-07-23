@@ -6,11 +6,30 @@ Run:
     streamlit run src/app.py
 """
 
+import os
 import streamlit as st
-from retrieve import retrieve
-from generate import generate_answer
 
 st.set_page_config(page_title="Legal RAG Assistant", page_icon="⚖️", layout="wide")
+
+# --- Auto-build the vector index on first run (needed for fresh cloud deploys,
+# where chroma_db/ doesn't exist yet because it's excluded from git) ---
+DB_DIR = os.path.join(os.path.dirname(__file__), "..", "chroma_db")
+
+
+def _index_exists():
+    # ChromaDB writes a sqlite file once a collection has been created
+    return os.path.isdir(DB_DIR) and any(
+        f.endswith(".sqlite3") for f in os.listdir(DB_DIR)
+    ) if os.path.isdir(DB_DIR) else False
+
+
+if not _index_exists():
+    with st.spinner("First-time setup: building the document index... this can take a minute."):
+        import ingest
+        ingest.build_index()
+
+from retrieve import retrieve
+from generate import generate_answer
 
 st.title("⚖️ Legal Analysis Assistant (RAG)")
 st.caption(
@@ -29,7 +48,6 @@ with st.sidebar:
         "`python src/ingest.py`."
     )
     st.markdown("---")
-    import os
     if os.environ.get("ANTHROPIC_API_KEY"):
         st.success("Anthropic API key detected - full generation enabled.")
     elif os.environ.get("OPENAI_API_KEY"):
@@ -51,10 +69,11 @@ if st.button("Analyze", type="primary") and query.strip():
 
     st.subheader("Answer")
     st.write(answer)
-
+ 
     st.subheader("Retrieved sources")
     for c in chunks:
         with st.expander(f"{c['doc_title']} — {c['section_label']}  (relevance distance: {c['distance']:.3f})"):
             st.write(c["text"])
 elif query.strip() == "":
     st.info("Enter a question above and click Analyze.")
+ 
