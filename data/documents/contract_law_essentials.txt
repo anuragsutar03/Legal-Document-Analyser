@@ -1,0 +1,16 @@
+TITLE: Essentials of a Valid Contract
+
+SECTION 1: Offer and Acceptance
+A contract begins with a proposal made by one party (the offeror) to another (the offeree). The proposal must be communicated clearly and must express a willingness to enter into an agreement on definite terms. Acceptance must be absolute and unqualified, and must be communicated to the offeror in the manner prescribed or in a reasonable manner if none is prescribed. A conditional acceptance, or one that introduces new terms, is treated as a counter-offer rather than acceptance.
+
+SECTION 2: Lawful Consideration
+Every contract must be supported by consideration, meaning something of value given by each party. Consideration need not be adequate, but it must be real and must move at the desire of the promisor. Past consideration, natural love and affection alone, or an agreement without any consideration is generally void, subject to specific statutory exceptions such as agreements made on account of natural love and affection between near relatives if reduced to writing and registered.
+
+SECTION 3: Capacity to Contract
+Parties entering into a contract must be competent, meaning they must have attained the age of majority, be of sound mind, and not be disqualified from contracting by any law. Agreements entered into by minors are void ab initio, meaning they carry no legal effect from the outset, though certain protective exceptions exist for necessaries supplied to a minor.
+
+SECTION 4: Free Consent
+Consent is said to be free when it is not caused by coercion, undue influence, fraud, misrepresentation, or mistake. If consent is obtained through any of these vitiating factors, the resulting contract is voidable at the option of the party whose consent was so obtained, except in cases of bilateral mistake of fact, which renders the agreement void.
+
+SECTION 5: Lawful Object and Consideration
+The object and consideration of an agreement must be lawful. An agreement is unlawful if it is forbidden by law, is of such a nature that it would defeat the provisions of any law, is fraudulent, involves injury to a person or property, or is regarded as immoral or opposed to public policy.

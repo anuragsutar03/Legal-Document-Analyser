@@ -1,0 +1,16 @@
+TITLE: Illustrative Case Summaries (Fictionalized for Educational Use)
+
+CASE: Mehta Traders v. Konkan Exports (Fictional, illustrative of anticipatory breach principles)
+FACTS: A supplier informed a buyer, one month before the scheduled delivery date, that it would not be able to deliver the contracted goods due to a shortage of raw materials.
+HOLDING: The court held that the buyer was entitled to treat the contract as breached immediately upon receiving the supplier's communication, rather than waiting until the delivery date, and could pursue an immediate claim for damages. This illustrates the doctrine of anticipatory breach.
+REASONING: A clear and unequivocal renunciation of contractual obligations, made before performance is due, entitles the innocent party to elect to terminate the contract at once and sue for damages without waiting for the actual date of performance.
+
+CASE: Rani Textiles v. Coastal Logistics (Fictional, illustrative of mitigation of damages)
+FACTS: A carrier failed to transport goods as agreed, causing the seller to seek an alternative carrier at a higher cost. The seller then claimed the full cost difference as damages.
+HOLDING: The court reduced the damages awarded, finding that the seller had not taken all reasonable steps to source the cheapest reasonably available alternative carrier.
+REASONING: An injured party has a duty to mitigate loss, and cannot recover for losses that could have been reasonably avoided through prompt and reasonable action.
+
+CASE: Iyer Holdings v. Deshmukh Estates (Fictional, illustrative of specific performance for unique property)
+FACTS: A seller of a specific parcel of land refused to complete the sale after entering into a valid agreement, offering instead to return the deposit with interest.
+HOLDING: The court ordered specific performance, compelling the seller to complete the transfer of the land.
+REASONING: Land is treated as unique, and monetary compensation is presumed inadequate to remedy the loss of a specific, irreplaceable parcel of property, justifying the equitable remedy of specific performance over damages.

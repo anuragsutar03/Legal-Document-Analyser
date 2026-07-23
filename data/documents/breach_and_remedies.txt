@@ -1,0 +1,16 @@
+TITLE: Breach of Contract and Remedies
+
+SECTION 1: Types of Breach
+A breach of contract occurs when a party fails to perform an obligation under the contract, either wholly or in part, without lawful excuse. An anticipatory breach arises when a party renounces its obligations before the time for performance has arrived, communicated either expressly or through conduct. An actual breach occurs at the time performance is due and the party fails, refuses, or is unable to perform.
+
+SECTION 2: Damages
+The primary remedy for breach of contract is an award of damages intended to compensate the injured party for loss actually suffered as a result of the breach. Damages are generally limited to losses that arise naturally from the breach, or that both parties knew, at the time of contracting, were likely to result from a breach. Damages are not awarded for remote or indirect losses. The injured party is under a duty to take reasonable steps to mitigate the loss.
+
+SECTION 3: Specific Performance
+Where damages are an inadequate remedy, for instance where the subject matter of the contract is unique such as land or a rare item, a court may order specific performance, compelling the defaulting party to actually carry out its contractual obligations. Specific performance is a discretionary and equitable remedy and will not ordinarily be granted where monetary compensation would adequately compensate the claimant, or where the contract involves personal skill or service.
+
+SECTION 4: Injunctions
+An injunction is a remedy restraining a party from doing an act that would breach the contract. Injunctions are typically granted to enforce a negative stipulation in a contract, such as a covenant not to compete, provided the restraint is reasonable in scope, duration, and geographic extent.
+
+SECTION 5: Rescission and Restitution
+A party may, in appropriate circumstances, treat the contract as rescinded and claim restitution, that is, to be restored to the position occupied before the contract was entered into. Rescission is generally available where the contract is voidable due to fraud, misrepresentation, coercion, or undue influence.
