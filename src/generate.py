@@ -46,13 +46,14 @@ def _extractive_fallback(query, chunks):
 
 
 def _call_gemini(query, context):
-    import google.generativeai as genai
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
-        system_instruction=SYSTEM_PROMPT,
+    from google import genai
+    from google.genai import types
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model="gemini-flash-latest",  # auto-updating alias, avoids hardcoding a version that gets retired
+        contents=f"Excerpts:\n\n{context}\n\nQuestion: {query}",
+        config=types.GenerateContentConfig(system_instruction=SYSTEM_PROMPT),
     )
-    response = model.generate_content(f"Excerpts:\n\n{context}\n\nQuestion: {query}")
     return response.text
 
 
