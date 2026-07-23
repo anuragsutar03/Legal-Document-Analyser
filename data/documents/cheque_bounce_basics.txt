@@ -1,0 +1,16 @@
+TITLE: Cheque Bounce and Negotiable Instruments Basics
+
+SECTION 1: What Is a Dishonoured Cheque
+A cheque is said to be dishonoured, or "bounced," when a bank refuses to honour it upon presentation, commonly due to insufficient funds in the drawer's account, a mismatched signature, or the account being closed. Dishonour of a cheque issued to discharge a legally enforceable debt or liability can be treated as a punishable offence in many jurisdictions, separate from being a mere civil wrong.
+
+SECTION 2: Legal Notice Requirement
+Before initiating criminal proceedings for a dishonoured cheque, the payee is generally required to send a written legal notice to the drawer demanding payment of the cheque amount within a specified period, typically 30 days, from the date of receiving information about the dishonour from the bank.
+
+SECTION 3: Time Limit to Respond and File a Complaint
+If the drawer fails to make payment within the period specified in the legal notice, typically 15 days from receipt of the notice, the payee generally becomes entitled to file a criminal complaint. This complaint usually must be filed within one month from the date the cause of action arose, that is, after the notice period expires without payment.
+
+SECTION 4: Consequences of a Cheque Bounce
+Consequences of a dishonoured cheque issued for a legally enforceable debt can include criminal liability with penalties such as fine or imprisonment, in addition to civil liability for recovery of the outstanding amount. The drawer may have valid defences, such as proving the cheque was not issued for a legally enforceable debt.
+
+SECTION 5: Common Reasons for Dishonour
+Common reasons a cheque may be dishonoured include insufficient funds, a signature mismatch, an overwriting or alteration on the cheque, a stale or post-dated cheque presented incorrectly, or a stop-payment instruction issued by the drawer. The specific reason stated by the bank can significantly affect the legal remedies available.

@@ -1,0 +1,19 @@
+TITLE: Cybercrime and Online Fraud Basics
+
+SECTION 1: Online Financial Fraud
+Online financial fraud includes unauthorized transactions, phishing scams, fraudulent loan or investment apps, and OTP-based fraud where a victim is tricked into sharing a one-time password. Victims of online financial fraud are generally advised to report the incident to their bank immediately to block further transactions, in addition to filing a police or cybercrime complaint.
+
+SECTION 2: Identity Theft and Impersonation
+Identity theft involves using another person's personal information, such as identity documents or photographs, without consent, typically for fraudulent purposes such as opening accounts, applying for loans, or creating fake social media profiles. This is generally treated as a punishable offence, and affected individuals can file a complaint with the police or the relevant cybercrime reporting portal.
+
+SECTION 3: Reporting a Cybercrime
+Cybercrime complaints can typically be filed at a local police station or through a dedicated national cybercrime reporting portal, particularly useful for offences like financial fraud, which often require urgent action to freeze fraudulent transactions. Preserving evidence, such as screenshots, transaction IDs, and messages, is important when filing a complaint.
+
+SECTION 4: Online Harassment and Defamation
+Online harassment includes cyberstalking, sending threatening or obscene messages, and posting defamatory or humiliating content about a person without consent. Victims can pursue both criminal complaints and, in the case of defamatory content, civil remedies such as removal of content and damages.
+
+SECTION 5: Data Privacy and Unauthorized Access
+Unauthorized access to another person's computer, account, or data, including hacking or unauthorized use of login credentials, is generally treated as a punishable offence. Organizations handling personal data may also have independent obligations to protect that data and can face liability for data breaches caused by negligence.
+
+SECTION 6: Time Sensitivity in Cyber Fraud Cases
+In cases of unauthorized financial transactions, prompt reporting is critical: many banking frameworks provide that a customer's liability for an unauthorized transaction can be limited or eliminated if the fraud is reported within a specified short window, making immediate action after discovering fraud especially important.
